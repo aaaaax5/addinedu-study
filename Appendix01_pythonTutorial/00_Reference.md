@@ -1,0 +1,1 @@
+**All codes** and **explains** comes from [python tutorial in w3schools](https://www.w3schools.com/python/default.asp).
